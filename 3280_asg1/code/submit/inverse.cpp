@@ -7,6 +7,8 @@
 
 	inverse.cpp
 	
+	1155032329
+	Leung Kwan Ho	
 */
 
 #include "stdio.h"
